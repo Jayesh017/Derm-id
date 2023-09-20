@@ -1,0 +1,138 @@
+.c_landing-page-frame {
+  width: 100%;
+  overflow: hidden;
+  max-width: 1280px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #f7ffee;
+}
+
+.c_landing-page-ellipse {
+  max-width: 286px;
+}
+
+.c_landing-page-ellipse,
+.c_landing-page-ellipse1,
+.c_landing-page-ellipse2 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  border-radius: 100%;
+}
+
+.c_landing-page-ellipse1 {
+  max-width: 162.88766479492188px;
+  transform: rotate(3.25deg);
+}
+
+.c_landing-page-ellipse2 {
+  max-width: 186px;
+}
+
+.c_landing-page-ellipse3,
+.c_landing-page-ellipse4,
+.c_landing-page-ellipse5 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 227px;
+  border-radius: 100%;
+}
+
+.c_landing-page-ellipse4,
+.c_landing-page-ellipse5 {
+  max-width: 201px;
+}
+
+.c_landing-page-ellipse5 {
+  max-width: 167.254638671875px;
+  transform: rotate(-2.03deg);
+}
+
+.c_landing-page-text,
+.c_landing-page-text1 {
+  margin-top: 0;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_landing-page-text {
+  width: 100%;
+  max-width: 751px;
+  min-height: 156px;
+}
+
+.c_landing-page-text1 {
+  color: #fff9f9;
+  font-size: 147px;
+  font-style: normal;
+  font-family: "JejuGothic",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_landing-page-text2 {
+  width: 100%;
+  max-width: 428px;
+  margin-top: 0;
+  min-height: 346px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_landing-page-text3 {
+  color: #0d0a0a;
+  font-size: 50.53041458129883px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Italiana",serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_landing-page-rectangle,
+.c_landing-page-rectangle1 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 1280px;
+}
+
+.c_landing-page-rectangle1 {
+  max-width: 283px;
+  border-radius: 76px 76px 76px 76px;
+}
+
+.c_landing-page-text4 {
+  width: 100%;
+  max-width: 278px;
+  margin-top: 0;
+  min-height: 118px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_landing-page-text5 {
+  color: #000;
+  font-size: 50.53041458129883px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Italiana",serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
